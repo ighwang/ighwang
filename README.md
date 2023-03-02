@@ -39,5 +39,5 @@
 <br>
 <br>
   
-  ![ighwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuca&show_icons=true&theme=radical)
+  ![ighwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ighwang&show_icons=true&theme=radical)
 </div> 
